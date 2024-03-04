@@ -1,0 +1,15 @@
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\bin\Debug\net6.0\CalculatorConsoleApp1.exe
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\bin\Debug\net6.0\CalculatorConsoleApp1.deps.json
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\bin\Debug\net6.0\CalculatorConsoleApp1.runtimeconfig.json
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\bin\Debug\net6.0\CalculatorConsoleApp1.dll
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\bin\Debug\net6.0\CalculatorConsoleApp1.pdb
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\CalculatorConsoleApp1.csproj.AssemblyReference.cache
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\CalculatorConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\CalculatorConsoleApp1.AssemblyInfoInputs.cache
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\CalculatorConsoleApp1.AssemblyInfo.cs
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\CalculatorConsoleApp1.csproj.CoreCompileInputs.cache
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\CalculatorConsoleApp1.dll
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\refint\CalculatorConsoleApp1.dll
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\CalculatorConsoleApp1.pdb
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\CalculatorConsoleApp1.genruntimeconfig.cache
+D:\23.11.5918\CalculatorConsoleApp1\CalculatorConsoleApp1\obj\Debug\net6.0\ref\CalculatorConsoleApp1.dll
